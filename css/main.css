@@ -10,7 +10,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: red;
-    background-color: whitesmoke;
+
     background-image: url('../img/water.jpg');
     background-size: cover;
 }
