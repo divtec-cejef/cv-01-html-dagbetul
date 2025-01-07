@@ -12,6 +12,7 @@ body {
     color: red;
     background-color: whitesmoke;
     background-image: url('../img/water.jpg');
+    background-size: cover;
 }
 
 img {
