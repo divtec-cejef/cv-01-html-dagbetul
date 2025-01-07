@@ -12,7 +12,9 @@ body {
     color: red;
 
     background-image: url('../img/water.jpg');
-    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 600px;
 }
 
 img {
