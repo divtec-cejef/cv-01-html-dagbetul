@@ -9,7 +9,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    list-style-position: inside;
+    list-style-position: outside;
     color: black;
     text-align: center;
     background-image: url('../img/water.png');
@@ -17,7 +17,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin :0;
-    padding: 0;
+    padding-left: 40px;
     min-height:100vh;
 }
 
