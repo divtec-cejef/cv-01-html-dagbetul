@@ -11,8 +11,8 @@ body {
     line-height: 1.4;
     color: red;
 
-    background-image: url("../img/water.png")
-    background-position: bottom;
+    background-image: url('../img/water.png')
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 600px;
 }
