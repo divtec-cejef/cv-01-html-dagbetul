@@ -26,7 +26,12 @@ h1 {
     text-align: center;
     margin:20px 0;
 }
-
+p {
+   text-align: center;
+}
+h2 {
+    color: greenyellow;
+}
 img {
     max-width: 100%;
     height: auto;
@@ -34,7 +39,7 @@ img {
 }
 
 a {
-    color: blue;
+    color: red;
 }
 
 a:hover {
