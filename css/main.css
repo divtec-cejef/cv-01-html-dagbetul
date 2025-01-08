@@ -37,7 +37,11 @@ img {
     height: auto;
     width: auto;
 }
-
+header {
+    padding:20px;
+}
+header .logo{
+    font-size
 a {
     color: red;
 }
