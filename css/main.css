@@ -41,8 +41,10 @@ img {
 header {
     padding:20px;
 }
-header .logo{
-    font-size
+main {
+    clear: both;
+    padding: 20px;
+}
 a {
     color: red;
 }
