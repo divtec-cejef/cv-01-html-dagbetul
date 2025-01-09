@@ -16,8 +16,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin :0 auto;
-    padding-left: 200px;
+    margin: 0 auto;
+    padding-left: 280px;
+    padding-right: 200px;
     min-height:100vh;
 }
 
@@ -46,7 +47,7 @@ img {
     width: auto;
 }
 header {
-    padding:20px;
+    padding: 20px;
     text-align: center;
 }
 main {
