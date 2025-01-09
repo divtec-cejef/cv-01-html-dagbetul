@@ -41,6 +41,9 @@ ul  {
     padding-right: 200px;
     text-align: left;
 }
+#header ul {
+    padding: 400px;
+}
 img {
     max-width: 100%;
     height: auto;
