@@ -38,7 +38,7 @@ ul  {
     list-style-position: outside; /* İşaretleri öğelerin dışına hizala */
     margin: 0; /* Varsayılan dış boşluğu sıfırla */
     padding-left: 40px; /* Tüm listeyi soldan hizala */
-    text-align: left; }
+    text-align: center; }
 img {
     max-width: 100%;
     height: auto;
