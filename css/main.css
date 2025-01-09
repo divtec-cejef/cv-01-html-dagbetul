@@ -9,7 +9,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    list-style-position: outside;
+    list-style-position: inside;
     color: black;
     text-align: center;
     background-image: url('../img/water.png');
@@ -34,10 +34,10 @@ h2 {
     color: greenyellow;
 }
 ul  {
-    list-style-type: disc; /* Dolu daire işareti */
-    list-style-position: outside; /* İşaretleri öğelerin dışına hizala */
-    margin: 0; /* Varsayılan dış boşluğu sıfırla */
-    padding-left: 40px; /* Tüm listeyi soldan hizala */
+    list-style-type: disc;
+    list-style-position: inside; 
+    margin: 0 auto; 
+    padding: 0; 
     text-align: center;
 }
 img {
