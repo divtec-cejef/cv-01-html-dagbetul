@@ -27,11 +27,11 @@ h1 {
     text-align: center;
     margin:20px 0;
 }
-p {
-   text-align: center;
-}
 h2 {
     color: greenyellow;
+}
+p {
+   text-align: center;
 }
 ul  {
     list-style-type: disc;
