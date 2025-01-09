@@ -17,8 +17,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0 auto;
-    padding-left: 280px;
-    padding-right: 200px;
+    padding: 0;
     min-height:100vh;
 }
 
@@ -38,7 +37,8 @@ ul  {
     list-style-type: disc;
     list-style-position: inside; 
     margin: 0 auto; 
-    padding: 0; 
+    padding-left: 280px;
+    padding-right: 200px;
     text-align: left;
 }
 img {
@@ -48,7 +48,12 @@ img {
 }
 header {
     padding: 20px;
+}
+#header h1 {
     text-align: center;
+    text-transform: uppercase;
+    text-decoration-style: underline;
+    text-decoration-color: red;
 }
 main {
     clear: both;
