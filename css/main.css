@@ -58,14 +58,19 @@ header {
 #header h1 {
     text-align: center;
     text-transform: uppercase;
-    text-decoration-style: underline;
-    text-decoration-style: solid;
+    text-decoration-style: none;
     text-decoration-color: red;
 }
 header .logo img {
     border: 5px solid black; /* Kenarlık boyutu, stili ve rengi */
     border-radius: 10px; /* Kenarlığı köşelere yuvarlamak için */
     padding: 5px; }
+header .logo{
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color:red;
 main {
     clear: both;
     padding: 20px;
