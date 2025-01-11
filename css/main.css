@@ -55,6 +55,7 @@ header {
     text-align: center;
     text-transform: uppercase;
     text-decoration-style: underline;
+    text-decoration-style: solid;
     text-decoration-color: red;
 }
 main {
