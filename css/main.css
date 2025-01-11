@@ -62,7 +62,7 @@ header {
     text-decoration-style: solid;
     text-decoration-color: red;
 }
-#logo {
+header .logo img {
     border: 5px solid black; /* Kenarlık boyutu, stili ve rengi */
     border-radius: 10px; /* Kenarlığı köşelere yuvarlamak için */
     padding: 5px; }
