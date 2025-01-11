@@ -62,9 +62,9 @@ header {
     text-decoration-color: red;
 }
 header .logo img {
-    border: 5px solid black; /* Kenarlık boyutu, stili ve rengi */
-    border-radius: 10px; /* Kenarlığı köşelere yuvarlamak için */
-    padding: 5px; }
+    border: 3px solid black; /* Kenarlık boyutu, stili ve rengi */
+    border-radius: 8px; /* Kenarlığı köşelere yuvarlamak için */
+    padding: 3px; }
 header .logo{
     font-size: 3rem;
     font-weight: bold;
