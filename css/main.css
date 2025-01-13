@@ -77,9 +77,19 @@ main {
 }
 a {
     color: red;
+    text-decoration: none;
 }
 
 a:hover {
     color: darkmagenta;
 }
+    footer a{
+        color:red;
+    text-shadow: 2px 2px 5px black;
+}
+    footer a:hover{
+        color:red;
+        text-shadow: 1px 1px 5px black;
+    }
+        
 view rawmain.css hosted with ❤ by GitHub
