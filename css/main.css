@@ -50,7 +50,7 @@ header {
     display: flex; /* Flex düzeni etkinleştir */
     align-items: center; /* Resim ve navigasyonu dikeyde ortala */
     justify-content: flex-start; /* Sola hizala */
-    gap: 1px; /* Navigasyon ve fotoğraf arasındaki boşluk */
+    gap: 0 auto; /* Navigasyon ve fotoğraf arasındaki boşluk */
     padding: 20px; /* Çevresine boşluk ekle *//* Çevresinde boşluk */
     max-width: 1200px; /* Header genişliği */
     margin: 0 auto; /* Ortala */
@@ -78,7 +78,7 @@ header h1 {
 a {
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: red; /* Yazı rengi */
-    font-size: 1.5rem; /* Yazı boyutu */
+    font-size: 1.3rem; /* Yazı boyutu */
     font-weigth: bold; /* Kalın yazı */
 }
 
