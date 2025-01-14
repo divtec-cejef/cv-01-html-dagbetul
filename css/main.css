@@ -85,14 +85,7 @@ main {
     clear: both;
     padding: 20px;
 }
-a {
-    color: red;
-    text-decoration: none;
-}
 
-a:hover {
-    color: darkmagenta;
-}
 footer a{
     color:red;
     text-shadow: 2px 2px 5px red;
