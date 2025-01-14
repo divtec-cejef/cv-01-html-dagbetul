@@ -45,35 +45,41 @@ p {
    font-size: 1.5em;
    text-align: center;
 }
-ul  {
-    list-style-type: disc;
-    list-style-position: inside; 
-    margin: 0 auto; 
-    text-align: left;
-}
-#header ul {
-    padding: 400px;
-}
-img {
-    max-width: 100%;
-    height: auto;
-    width: auto;
-}
-header {
-    padding: 20px;
 
+header {
+    display: flex; /* Flex düzeni etkinleştir */
+    align-items: center; /* Resim ve navigasyonu dikeyde ortala */
+    justify-content: space-between; /* İkisi arasına boşluk koy */
+    padding: 20px; /* Çevresinde boşluk */
+    max-width: 1200px; /* Header genişliği */
+    margin: 0 auto; /* Ortala */
 }
-header .logo img {
-    border: 3px solid black; 
-    border-radius: 5px;
-    padding: 2px; 
+
+.logo img {
+    max-width: 150px; /* Resmi küçült */
+    height: auto; /* Oranını koru */
+    border: 3px solid black; /* Kenarlık ekle */
+    border-radius: 10px; /* Köşeleri yuvarla */
 }
-header .logo{
-    font-size: 3rem;
-    font-weight: bold;
-    text-decoration: none;
-    text-transform: uppercase;
-    color:red; 
+
+.navigation ul {
+    list-style: none; /* Liste işaretlerini kaldır */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Listeyi yatay hizala */
+    gap: 20px; /* Elemanlar arasındaki boşluk */
+}
+
+.navigation ul li a {
+    text-decoration: none; /* Alt çizgiyi kaldır */
+    color: red; /* Yazı rengi */
+    font-size: 1.2rem; /* Yazı boyutu */
+    font-weight: bold; /* Kalın yazı */
+}
+
+.navigation ul li a:hover {
+    color: darkmagenta; /* Hover sırasında renk değişimi */
+    text-decoration: underline; /* Hover sırasında alt çizgi 
 }
 main {
     clear: both;
