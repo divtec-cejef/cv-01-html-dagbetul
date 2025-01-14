@@ -66,7 +66,7 @@ header {
     list-style-type: disc;
     margin: 0;
     padding: 0;
-    gap: 20px; /* Elemanlar arasındaki boşluk */
+
 }
 
 .navigation ul li a {
