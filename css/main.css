@@ -66,11 +66,11 @@ header {
     list-style-type: disc;
     margin: 0;
     padding: 0;
-    display: flex; /* Listeyi yatay hizala */
     gap: 20px; /* Elemanlar arasındaki boşluk */
 }
 
 .navigation ul li a {
+    list-style-type: disc;
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: red; /* Yazı rengi */
     font-size: 1.2rem; /* Yazı boyutu */
