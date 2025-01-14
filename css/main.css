@@ -55,7 +55,7 @@ header {
 }
 header h1 {
     font-size: 2.5rem; /* Büyük boyut */
-    color: magenta; /* Yazı rengi */
+    color: red; /* Yazı rengi */
     text-transform: uppercase; /* Tüm harfleri büyük yapar */
     text-decoration: underline; /* Altını çizer */
     margin: 0; /* Ekstra boşlukları kaldırır */
@@ -75,7 +75,7 @@ header h1 {
 
 }
 
-.navigation ul li a {
+a {
     list-style-type: disc;
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: red; /* Yazı rengi */
@@ -83,7 +83,7 @@ header h1 {
     font-weight: bold; /* Kalın yazı */
 }
 
-.navigation ul li a:hover {
+a:hover {
     color: darkmagenta; /* Hover sırasında renk değişimi */
     text-decoration: underline; /* Hover sırasında alt çizgi 
 }
