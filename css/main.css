@@ -73,7 +73,8 @@ header .logo{
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
-    color:red;
+    color:red; 
+}
 main {
     clear: both;
     padding: 20px;
