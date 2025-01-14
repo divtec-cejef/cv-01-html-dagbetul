@@ -49,7 +49,6 @@ p {
 header {
     display: flex; /* Flex düzeni etkinleştir */
     align-items: center; /* Resim ve navigasyonu dikeyde ortala */
-    justify-content: space-between; /* İkisi arasına boşluk koy */
     padding: 20px; /* Çevresinde boşluk */
     max-width: 1200px; /* Header genişliği */
     margin: 0 auto; /* Ortala */
