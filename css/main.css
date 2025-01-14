@@ -79,6 +79,7 @@ header h1 {
 }
 .menu ul li{ 
     margin: 0.5px;
+    padding:2px;
 }
 a {
     text-decoration: none;
