@@ -74,12 +74,12 @@ header h1 {
     list-style-type: disc;
     margin: 0;
     padding: 0;
+    font-size: 1.2rem; /* Yazı boyutu */
+    font-weigth: bold; /* Kalın yazı */
 }
 a {
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: deeppink; /* Yazı rengi */
-    font-size: 1.3rem; /* Yazı boyutu */
-    font-weigth: bold; /* Kalın yazı */
 }
 
 a:hover {
@@ -91,11 +91,11 @@ main {
     padding: 20px;
 }
 
-.footer a {
+footer a {
     color:black;
     text-shadow: 2px 2px 5px red;
 }
-.footer a:hover {
+footer a:hover {
     color:red;
     text-shadow: 1px 1px 5px red;
 }
