@@ -83,7 +83,7 @@ a {
 }
 
 a:hover {
-    color: darkmagenta; 
+    color: red; 
     text-decoration: underline;
 }
 main {
