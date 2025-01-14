@@ -78,7 +78,6 @@ header h1 {
 }
 
 a {
-    list-style-type: disc;
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: red; /* Yazı rengi */
     font-size: 1.2rem; /* Yazı boyutu */
