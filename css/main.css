@@ -63,7 +63,7 @@ header {
 }
 
 .navigation ul {
-    list-style: none; /* Liste işaretlerini kaldır */
+    list-style-type: disc;
     margin: 0;
     padding: 0;
     display: flex; /* Listeyi yatay hizala */
