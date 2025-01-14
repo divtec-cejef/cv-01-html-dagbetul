@@ -53,6 +53,13 @@ header {
     max-width: 1200px; /* Header genişliği */
     margin: 0 auto; /* Ortala */
 }
+header h1 {
+    font-size: 2.5rem; /* Büyük boyut */
+    color: magenta; /* Yazı rengi */
+    text-transform: uppercase; /* Tüm harfleri büyük yapar */
+    text-decoration: underline; /* Altını çizer */
+    margin: 0; /* Ekstra boşlukları kaldırır */
+}
 
 .logo img {
     max-width: 150px; /* Resmi küçült */
