@@ -57,7 +57,7 @@ header {
 }
 header h1 {
     font-size: 2.5rem; 
-    color: deeppink;
+    color: Fuchsia;
     text-transform: uppercase;
     text-decoration: underline;
     margin: 0;
@@ -79,7 +79,7 @@ header h1 {
 }
 a {
     text-decoration: none;
-    color: 00008B; 
+    color: Fuchsia; 
 }
 
 a:hover {
@@ -93,10 +93,10 @@ main {
 
 footer a {
     color:black;
-    text-shadow: 2px 2px 5px 00008B;
+    text-shadow: 2px 2px 5px Fuchsia;
 }
 footer a:hover {
-    color:00008B;
-    text-shadow: 1px 1px 5px 00008B;
+    color:Fuchsia;
+    text-shadow: 1px 1px 5px Fuchsia;
 }
 view rawmain.css hosted with ❤ by GitHub
