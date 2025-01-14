@@ -49,8 +49,7 @@ p {
 header {
     display: flex; /* Flex düzeni etkinleştir */
     align-items: center; /* Resim ve navigasyonu dikeyde ortala */
-    justify-content: flex-start;
-    gap:20px;
+    justify-content: center;
     padding: 20px; /* Çevresinde boşluk */
     max-width: 1200px; /* Header genişliği */
     margin: 0 auto; /* Ortala */
@@ -100,5 +99,4 @@ footer a:hover {
     color:red;
     text-shadow: 1px 1px 5px red;
     }
-        
 view rawmain.css hosted with ❤ by GitHub
