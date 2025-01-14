@@ -50,13 +50,13 @@ header {
     display: flex; /* Flex düzeni etkinleştir */
     align-items: center; /* Resim ve navigasyonu dikeyde ortala */
     justify-content: flex-start; /* Sola hizala */
-    gap: 20px; /* Navigasyon ve fotoğraf arasındaki boşluk */
+    gap: 10px; /* Navigasyon ve fotoğraf arasındaki boşluk */
     padding: 20px; /* Çevresine boşluk ekle *//* Çevresinde boşluk */
     max-width: 1200px; /* Header genişliği */
     margin: 0 auto; /* Ortala */
 }
 header h1 {
-    font-size: 2.75rem; /* Büyük boyut */
+    font-size: 2.5rem; /* Büyük boyut */
     color: red; /* Yazı rengi */
     text-transform: uppercase; /* Tüm harfleri büyük yapar */
     text-decoration: underline; /* Altını çizer */
@@ -75,15 +75,14 @@ header h1 {
     margin: 0;
     padding: 0;
 }
-
-.navigation ul li a {
+a {
     text-decoration: none; /* Alt çizgiyi kaldır */
     color: red; /* Yazı rengi */
     font-size: 1.2rem; /* Yazı boyutu */
-    font-weight: bold; /* Kalın yazı */
+    font-weigth: bold; /* Kalın yazı */
 }
 
-.navigation ul li a:hover {
+a:hover {
     color: darkmagenta; /* Hover sırasında renk değişimi */
     text-decoration: underline; /* Hover sırasında alt çizgi 
 }
