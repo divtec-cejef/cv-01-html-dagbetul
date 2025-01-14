@@ -77,10 +77,6 @@ header h1 {
     font-size: 1.2rem;
     font-weigth: bold;
 }
-.menu ul li{ 
-    margin: 0.5px;
-    padding:2px;
-}
 a {
     text-decoration: none;
     color: DarkBlue; 
