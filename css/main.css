@@ -93,12 +93,12 @@ main {
 }
 
 footer a{
-    color:red;
+    color:black;
     text-shadow: 2px 2px 5px red;
 }
 footer a:hover {
     color:red;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 1px 1px 5px red;
     }
         
 view rawmain.css hosted with ❤ by GitHub
