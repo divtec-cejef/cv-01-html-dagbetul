@@ -47,44 +47,44 @@ p {
 }
 
 header {
-    display: flex; /* Flex düzeni etkinleştir */
-    align-items: center; /* Resim ve navigasyonu dikeyde ortala */
-    justify-content: flex-start; /* Sola hizala */
-    gap: 10px; /* Navigasyon ve fotoğraf arasındaki boşluk */
-    padding: 10px; /* Çevresine boşluk ekle *//* Çevresinde boşluk */
-    max-width: 1200px; /* Header genişliği */
-    margin: 0 auto; /* Ortala */
+    display: flex; 
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto; 
 }
 header h1 {
-    font-size: 2.5rem; /* Büyük boyut */
-    color: deeppink; /* Yazı rengi */
-    text-transform: uppercase; /* Tüm harfleri büyük yapar */
-    text-decoration: underline; /* Altını çizer */
-    margin: 0; /* Ekstra boşlukları kaldırır */
+    font-size: 2.5rem; 
+    color: deeppink;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 0;
 }
 
 .logo img {
-    max-width: 150px; /* Resmi küçült */
-    height: auto; /* Oranını koru */
-    border: 3px solid black; /* Kenarlık ekle */
-    border-radius: 10px; /* Köşeleri yuvarla */
+    max-width: 150px;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 10px;
 }
 
 .menu ul {
     list-style-type: disc;
     margin: 0;
     padding: 0;
-    font-size: 1.2rem; /* Yazı boyutu */
-    font-weigth: bold; /* Kalın yazı */
+    font-size: 1.2rem;
+    font-weigth: bold;
 }
 a {
-    text-decoration: none; /* Alt çizgiyi kaldır */
-    color: deeppink; /* Yazı rengi */
+    text-decoration: none;
+    color: deeppink; 
 }
 
 a:hover {
-    color: darkmagenta; /* Hover sırasında renk değişimi */
-    text-decoration: underline; /* Hover sırasında alt çizgi */
+    color: darkmagenta; 
+    text-decoration: underline;
 }
 main {
     clear: both;
