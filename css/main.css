@@ -84,7 +84,7 @@ a {
 
 a:hover {
     color: darkmagenta; /* Hover sırasında renk değişimi */
-    text-decoration: underline; /* Hover sırasında alt çizgi 
+    text-decoration: underline; /* Hover sırasında alt çizgi */
 }
 main {
     clear: both;
